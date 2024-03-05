@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-02T13:29:25 IST" name="Default suite" finished-at="2024-03-02T13:29:26 IST" duration-ms="1803">
+    <groups>
+    </groups>
+    <test started-at="2024-03-02T13:29:25 IST" name="Default test" finished-at="2024-03-02T13:29:26 IST" duration-ms="1803">
+      <class name="com.database.testing.StoredFunctionTesting">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.database.testing.StoredFunctionTesting@50a638b5]" started-at="2024-03-02T13:29:25 IST" name="beforeMethod" finished-at="2024-03-02T13:29:26 IST" duration-ms="1233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyStoredProcedureWithStoredFunctionAndSqlQuery()[pri:0, instance:com.database.testing.StoredFunctionTesting@50a638b5]" started-at="2024-03-02T13:29:26 IST" name="verifyStoredProcedureWithStoredFunctionAndSqlQuery" finished-at="2024-03-02T13:29:26 IST" duration-ms="408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStoredProcedureWithStoredFunctionAndSqlQuery -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.database.testing.StoredFunctionTesting@50a638b5]" started-at="2024-03-02T13:29:26 IST" name="afterMethod" finished-at="2024-03-02T13:29:26 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.database.testing.StoredFunctionTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
