@@ -29,6 +29,7 @@ public class GetDataFromDatabase {
 				System.out.println(resultSet.getString("customerName"));
 				System.out.println(resultSet.getString("city"));
 				System.out.println(resultSet.getString("country"));
+				System.out.println("temporary text by mbm");
 			}
 		}
 		}catch (SQLException e) {
